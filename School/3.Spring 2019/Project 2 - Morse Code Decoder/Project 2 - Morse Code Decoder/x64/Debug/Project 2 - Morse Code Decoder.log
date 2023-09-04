@@ -1,7 +1,0 @@
-﻿  morseCode.cpp
-c:\users\emc11\dropbox\software\3.spring 2019\project 2 - morse code decoder\project 2 - morse code decoder\binary_search_tree.h(11): error C3861: 'root': identifier not found
-  c:\users\emc11\dropbox\software\3.spring 2019\project 2 - morse code decoder\project 2 - morse code decoder\binary_search_tree.h(42): note: see reference to class template instantiation 'Binary_Search_Tree<Item_Type>' being compiled
-  Source.cpp
-c:\users\emc11\dropbox\software\3.spring 2019\project 2 - morse code decoder\project 2 - morse code decoder\binary_search_tree.h(11): error C3861: 'root': identifier not found
-  c:\users\emc11\dropbox\software\3.spring 2019\project 2 - morse code decoder\project 2 - morse code decoder\binary_search_tree.h(42): note: see reference to class template instantiation 'Binary_Search_Tree<Item_Type>' being compiled
-  Generating Code...
